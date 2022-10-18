@@ -8,5 +8,6 @@
     'license': 'LGPL-3',
     'data': [
         'views/res_partner_views.xml',
+        'security/ir.model.access.csv',
     ],
 }
